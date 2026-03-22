@@ -1,0 +1,19 @@
+# Claude Code local settings (personal/machine-specific)
+.claude/settings.local.json
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# Build
+dist/
+build/
+.next/

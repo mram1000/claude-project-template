@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(gh *)",
+      "Bash(npm test:*)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_wait_for",
+      "mcp__playwright__browser_type",
+      "mcp__playwright__browser_take_screenshot",
+      "mcp__plugin_github_github__create_pull_request",
+      "mcp__plugin_github_github__pull_request_read",
+      "mcp__plugin_github_github__merge_pull_request",
+      "mcp__plugin_github_github__list_pull_requests",
+      "mcp__plugin_github_github__add_issue_comment",
+      "mcp__plugin_github_github__list_issues"
+    ]
+  }
+}
